@@ -1,0 +1,5 @@
+T1 x y z a b
+T2 a b c
+T3 x y a c
+T4 y z b c
+T5 z a b

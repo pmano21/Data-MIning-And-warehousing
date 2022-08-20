@@ -1,0 +1,14 @@
+T1 youth high no fair no
+T2 youth high no excellent no
+T3 middle-aged high no fair yes
+T4 senior medium no fair yes
+T5 senior low yes fair yes
+T6 senior low yes excellent no
+T7 middle-aged low yes excellent yes
+T8 youth medium no fair no
+T9 youth low yes fair yes
+T10 senior medium yes fair yes
+T11 youth medium yes excellent yes
+T12 middle-aged medium no excellent yes
+T13 middle-aged high yes fair yes
+T14 senior medium no excellent no

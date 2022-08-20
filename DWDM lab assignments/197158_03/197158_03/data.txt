@@ -1,0 +1,9 @@
+T1 a b e
+T2 b d
+T3 b c
+T4 a b d
+T5 a c
+T6 b c
+T7 a c
+T8 a b c e
+T9 a b c

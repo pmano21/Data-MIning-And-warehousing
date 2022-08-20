@@ -1,0 +1,6 @@
+a T1 T2 T3 T5
+b T1 T2 T4 T5
+c T3 T4
+x T1 T3 
+y T1 T3 T4 
+z T1 T4 T5

@@ -1,0 +1,17 @@
+FREQUENT ITEMSETS:
+1-itemset
+{ I1 } -> sup_cnt=6
+{ I2 } -> sup_cnt=7
+{ I3 } -> sup_cnt=6
+{ I4 } -> sup_cnt=2
+{ I5 } -> sup_cnt=2
+2-itemset
+{ I1 I2 } -> sup_cnt=4
+{ I1 I3 } -> sup_cnt=4
+{ I1 I5 } -> sup_cnt=2
+{ I2 I3 } -> sup_cnt=4
+{ I2 I4 } -> sup_cnt=2
+{ I2 I5 } -> sup_cnt=2
+3-itemset
+{ I1 I2 I3 } -> sup_cnt=2
+{ I1 I2 I5 } -> sup_cnt=2
